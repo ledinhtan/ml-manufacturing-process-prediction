@@ -1,0 +1,29 @@
+# =========================
+# Data 
+# =========================
+data/*
+!data/README.md
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+
+# =========================
+# Outputs
+# =========================
+
+# Ignore trained models
+outputs/models/*
+!outputs/models/.gitkeep
