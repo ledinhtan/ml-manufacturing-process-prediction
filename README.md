@@ -1,6 +1,6 @@
 # 🔬 Data-Driven Analysis and Machine Learning for Solid Oxide Cell (SOC) Fabrication
 
-*This project deals with the application of machine learning to the process of tape casting, which is one of the main manufacturing processes for solid oxide fuel and electrolyser cells. It further targets to predict the physical properties of the fuel-electrode support across stages such as tape casting, sintering, and reducing.*
+*This project deals with the application of machine learning to the process of tape casting, which is one of the main manufacturing processes for solid oxide fuel and electrolyser cells. It further targets to predict the physical properties of the fuel-electrode support across stages such as tape casting, sintering, and reduction.*
 
 ![Python](https://img.shields.io/badge/python-3.10-3670A0?logo=python&logoColor=ffdd54)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
